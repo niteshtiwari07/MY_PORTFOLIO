@@ -120,7 +120,7 @@ export const projects = [
       "Secure user authentication and session management for personalized dashboards",
       "Scalable full-stack architecture with modular RESTful APIs"
     ],
-    githubUrl: "https://github.com/niteshtiwari07/MockBuddy",
+    githubUrl: "https://github.com/niteshtiwari07/Gen-Ai-prepration-platform",
     liveUrl: "https://mockbuddy-ai.vercel.app/",
     imageTheme: "from-cyan-900/60 via-slate-900 to-blue-950",
     stats: { AI: "Gemini AI", Stack: "Full-Stack MERN", Auth: "JWT" }
@@ -143,31 +143,30 @@ export const projects = [
       "Responsive UI with light/dark theme support and optimized API communication using Axios"
     ],
     githubUrl: "https://github.com/niteshtiwari07/ChatsUp",
-    liveUrl: "https://chatsup-demo.vercel.app",
+    liveUrl: "https://github.com/niteshtiwari07/ChatsUp",
     imageTheme: "from-blue-900/60 via-slate-900 to-indigo-950",
     stats: { RealTime: "Socket.IO", Latency: "<50ms", UI: "Dark/Light Theme" }
   },
   {
-    id: "ai-event-organizer",
+    id: "portfolio-website",
     featured: true,
-    title: "AI Event Organizer | Smart Event Platform",
-    tagline: "Intelligent Event Management & Automated Scheduling Portal",
+    title: "Developer Portfolio Website",
+    tagline: "High-Performance Glassmorphic Web App & Modern Design System",
     category: "Full Stack",
     badge: "Featured",
-    shortDescription: "An AI-powered event management platform to automate planning, intelligent workflow recommendations, and event scheduling.",
-    problemSolved: "Manual event planning requires complex coordination of schedules, task workflows, and attendee notifications.",
-    whatIBuilt: "Developed an event orchestration application with modular RESTful APIs, intelligent workflow recommendations, and MongoDB real-time activity tracking.",
-    technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
+    shortDescription: "A modern developer portfolio featuring next-gen glassmorphism, responsive micro-interactions, dark mode aesthetics, and clean typography.",
+    problemSolved: "Developers need a recruiters-friendly platform to showcase full-stack projects, real-time architectures, and credentials cleanly.",
+    whatIBuilt: "Built a responsive single-page web app with React.js, Tailwind CSS, Lucide icons, and centralized configuration store.",
+    technologies: ["React.js", "Vite", "Tailwind CSS", "Lucide Icons", "JavaScript"],
     keyFeatures: [
-      "AI-powered event planning and automated workflow recommendation engine",
-      "Intelligent schedule optimization to reduce manual coordination effort",
-      "Modular RESTful APIs to handle event data, tracking, and user interactions efficiently",
-      "Responsive UI with real-time event status tracking powered by MongoDB"
+      "Next-Gen Glassmorphism design system with backdrop blur and vibrant text gradients",
+      "Spotlight project showcase cards and deep-dive technical modals",
+      "Centralized portfolio data store and responsive timeline layout"
     ],
-    githubUrl: "https://github.com/niteshtiwari07/AI-Event-Organizer",
-    liveUrl: "https://aievent-demo.vercel.app",
-    imageTheme: "from-purple-900/60 via-slate-900 to-cyan-950",
-    stats: { Automation: "AI Workflows", DB: "MongoDB", API: "RESTful" }
+    githubUrl: "https://github.com/niteshtiwari07/MY_PORTFOLIO",
+    liveUrl: "https://github.com/niteshtiwari07/MY_PORTFOLIO",
+    imageTheme: "from-indigo-900/60 via-slate-900 to-cyan-950",
+    stats: { UI: "Tailwind CSS", Build: "Vite", Performance: "Fast" }
   },
   {
     id: "youtube-backend",
@@ -185,8 +184,8 @@ export const projects = [
       "Video Upload & Thumbnail Management via Multer and Cloudinary",
       "MongoDB Aggregation Pipelines for subscriber counts and watch history"
     ],
-    githubUrl: "https://github.com/niteshtiwari07/youtube-backend",
-    liveUrl: "https://github.com/niteshtiwari07/youtube-backend#readme",
+    githubUrl: "https://github.com/niteshtiwari07/Youtube_backend",
+    liveUrl: "https://github.com/niteshtiwari07/Youtube_backend#readme",
     imageTheme: "from-cyan-900/60 via-slate-900 to-blue-950",
     stats: { Endpoints: "25+", Architecture: "MVC", DB: "Mongoose" }
   }
