@@ -121,7 +121,7 @@ export const projects = [
       "Scalable full-stack architecture with modular RESTful APIs"
     ],
     githubUrl: "https://github.com/niteshtiwari07/MockBuddy",
-    liveUrl: "https://mockbuddy-demo.vercel.app",
+    liveUrl: "https://mockbuddy-ai.vercel.app/",
     imageTheme: "from-cyan-900/60 via-slate-900 to-blue-950",
     stats: { AI: "Gemini AI", Stack: "Full-Stack MERN", Auth: "JWT" }
   },
